@@ -15,3 +15,4 @@ This tutorial will show how to use PyCharm and git, and will use GitHub as a rem
 
 ## Start here
 1. Cloning a (forked) repository [Tutorial](tutorial-01-github.md)
+2. Staging and commiting [Tutorial](tutorial-02-staging-and-commiting.md)
