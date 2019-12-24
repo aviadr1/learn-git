@@ -33,6 +33,7 @@ Lets sync our work to the main repository on github by pushing our work.
 2. Press Ctrl+Shift+K or choose `VCS | Git | Push` from the main menu. 
    The Push Commits dialog opens showing all Git repositories
    Click the `Push` button 
+   ![](assets/push_dialog_anatomy.png)
 3. lets view our work on `github.com`
    - go to your repository on github.com
    - click the collaborators.md file
