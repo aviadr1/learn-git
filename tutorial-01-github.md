@@ -37,7 +37,7 @@ You can use git command-line or other tools to clone from github. but in this tu
 2. Now, we clone this URL using pycharm
    - Open PyCharm
    - in the PyCharm menu, choose `VCS | Checkout from Version Control | Git`. or in some versions it might be `VCS | Get from source control`
-     ![](assets/import_from_vcs.PNG)
+     ![](assets/import_from_vcs.png)
    - paste the URL you got from step #1
    - press `Clone` button
    
