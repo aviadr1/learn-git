@@ -32,3 +32,6 @@ This tutorial will show how to use PyCharm and git, and will use GitHub as a rem
 2. [YouTube: Deep Dive into Git - Edward Thomson](https://www.youtube.com/watch?v=fBP18-taaNw)
 3. [Git Exercises by Wojciech Frącz](https://gitexercises.fracz.com/)
 4. [Git exercises by Lukasz Sokolowski](https://training-course-material.com/training/Git_exercises)
+5. [git-extras](https://github.com/tj/git-extras/blob/master/Readme.md): super useful command-line tools for git
+6. [gitflow](https://jeffkreeftmeijer.com/git-flow/): a balanced workflow with stable master/develop, feature branches, release branches and hotfixes
+   - [command-line extensions ](https://github.com/nvie/gitflow)
