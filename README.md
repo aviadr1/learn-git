@@ -16,11 +16,11 @@ This tutorial will show how to use PyCharm and git, and will use GitHub as a rem
 ## Start here
 1. Cloning a (forked) repository [Tutorial](tutorial-01-github.md)
 2. Staging and commiting [Tutorial](tutorial-02-staging-and-commiting.md)
-3. [Cheetsheet]
+3. [Cheetsheet](content/cheetsheet.md)
 
 # Exercises
-- [solutions](exercise/questions.ipynb)
-- [solutions](exercise/solutions.ipynb)
+- [questions](https://colab.research.google.com/github/aviadr1/learn-git/blob/master/content/exercises/questions.ipynb)
+- [solutions](https://colab.research.google.com/github/aviadr1/learn-git/blob/master/content/exercises/solutions.ipynb)
 
 
 # Additional resources
