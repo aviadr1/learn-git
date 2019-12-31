@@ -21,7 +21,7 @@ in this tutorial we will show how to stage and commit files using pycharm
    ![](assets/commit_dialog.png)
 
 > Here's a full [documentation](https://www.jetbrains.com/help/pycharm/commit-and-push-changes.html) on pycharm commit process 
-## pushing and pulling ()
+## pushing and pulling
 
 Lets sync our work to the main repository on github by pushing our work.
 1.  Before pushing your changes, sync with the remote and make sure your local copy of the repository 
